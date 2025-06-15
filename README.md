@@ -127,10 +127,14 @@ U.S. Exports to China
 - Smart narrative writing & timeline annotations
 - Sectoral analysis using HS Codes and CPI categorization
 
-## Conclusion
-- Tariff escalation doesn’t always shrink trade. U.S. imports stayed high even at 67%+ rates
-- China’s export strategy pivoted but didn’t collapse. in fact, electronics exports grew
-- Consumers felt the pinch, especially in energy and apparel
+## Conclusion: Tariffs Reshaped Trade, But at a Cost
+The U.S.-China trade war succeeded in reducing dependency on Chinese imports in some sectors (e.g., apparel, automotive), but it also hurt U.S. exporters (especially agriculture and manufacturing).
+- Key Takeaways:
+  - Supply chains shifted – Apparel and tech imports from China fell sharply.
+  - U.S. exporters lost market share – China bought fewer agricultural and automotive goods.
+  - Trade deficit narrowed but persists – Tariffs weren’t enough to eliminate the imbalance.
+- For businesses: Diversification away from China continues, but alternative suppliers may come at higher costs.
+- For policymakers: Tariffs alone may not rebalance trade; long-term strategies are needed.
 
 ## Want to understand the full workflow, insights, and challenges?
 - [Read the full Medium article here](https://medium.com/@sharon_dolapo_johnson/trade-wars-real-costs-how-i-visualized-the-impact-of-us-china-tariff-era-2017-2025-35f6ea0bf76c)
